@@ -9,8 +9,7 @@ const store = createStore({
   state,
   mutations,
   actions,
-  getters,
-  modules: {}
+  getters
 });
 
 export default store;
